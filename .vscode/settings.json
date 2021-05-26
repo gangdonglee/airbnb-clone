@@ -1,3 +1,10 @@
 {
-    "python.pythonPath": "/Users/igangdong/.local/share/virtualenvs/igangdong-cSq3WJsk/bin/python"
+    "python.pythonPath": "/Users/igangdong/.local/share/virtualenvs/airbnb-clone-f-zm6GXv/bin/python",
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.formatting.provider": "black",
+    "python.linting.flake8Args": [
+        "--max-line-length=88"
+    ]
 }
